@@ -1,5 +1,7 @@
 # Amazon market place clone app
 access via https://abioseth1.github.io/myMarketplace/
+
+
 <br>
 SET UP
 1. Download Nodejs
@@ -22,4 +24,6 @@ SET UP
 
 
 
-<img src =   style = "size: 40%">
+
+
+<img src = "https://github.com/abioseth1/myMarketplace/blob/HtmlCss/htmlcssonly.JPG"  style = "size: 40%">
