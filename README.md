@@ -1,3 +1,5 @@
+# Amazon market place clone app
+access via https://abioseth1.github.io/myMarketplace/
 SET UP
 1. Download Nodejs
 2. Download mongoDB client and compass 
