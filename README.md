@@ -3,7 +3,11 @@ access via https://abioseth1.github.io/myMarketplace/
 
 
 <br>
+
+
 SET UP
+
+
 1. Download Nodejs
 2. Download mongoDB client and compass 
     1. code editor
@@ -25,5 +29,5 @@ SET UP
 
 
 
-
+<br>
 <img src = "https://github.com/abioseth1/myMarketplace/blob/HtmlCss/htmlcssonly.JPG"  style = "size: 40%">
