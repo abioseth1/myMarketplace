@@ -1,5 +1,6 @@
 # Amazon market place clone app
 access via https://abioseth1.github.io/myMarketplace/
+<br>
 SET UP
 1. Download Nodejs
 2. Download mongoDB client and compass 
@@ -18,3 +19,7 @@ SET UP
     1. create products div
     2. add product attributes
     3. add link, image, name and prices
+
+
+
+<img src =   style = "size: 40%">
