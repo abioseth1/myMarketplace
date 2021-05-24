@@ -1,4 +1,4 @@
-# Amazon market place clone app
+# Amazon Marketplace clone app
 access via https://abioseth1.github.io/myMarketplace/
 
 
