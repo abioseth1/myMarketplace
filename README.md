@@ -18,3 +18,6 @@ SET UP
     1. create products div
     2. add product attributes
     3. add link, image, name and prices
+
+
+<img src = "https://github.com/abioseth1/myMarketplace/blob/HtmlCss/htmlcssonly.JPG" style = "size: 50%" >
