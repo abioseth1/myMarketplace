@@ -6,12 +6,15 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
+    "gh-pages": "^3.2.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/abioseth1/myMarketplace/issues"
   },
-  "homepage": "https://github.com/abioseth1/myMarketplace#readme"
+  "homepage": "https://github.com/abioseth1/myMarketplace"
 }
